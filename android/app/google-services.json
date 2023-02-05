@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296058540069",
+    "firebase_url": "https://sarathidb-f0479-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sarathidb-f0479",
+    "storage_bucket": "sarathidb-f0479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296058540069:android:99655c715107a9463f6fcc",
+        "android_client_info": {
+          "package_name": "com.sarathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296058540069-h7smljt07ouei00j9llfo5a9n9l6g8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAG06fv_UXDAUta3YFAmLCMIKxiFV5bro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296058540069-h7smljt07ouei00j9llfo5a9n9l6g8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
